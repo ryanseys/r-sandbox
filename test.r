@@ -1,4 +1,4 @@
-x <- c(10.4, 5.6, 3.1, 6.4, 21.7)
+x <- c(10.4, 5.6, 3.1, 6.4, 21.7) # c means 'combine', basically create an array?
 cat("x: ", x, "\n")
 y <- mean(x) # average
 cat("mean of x: ", y, "\n")
